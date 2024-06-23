@@ -12,6 +12,4 @@ This code was used in:
 
 Pacquetet E. The effect of linguistic properties on typing behaviors and production processes. [Order No. 31236063]. State University of New York at Buffalo; 2024.
 
-
-[https://www.proquest.com/docview/3068905320/abstract?parentSessionId=ODAiEqzHt1OmsgfyBdeIvIUFKTq9595zOaCRd2M5A7I%3D&pq-origsite=primo&accountid=14169&sourcetype=Dissertations%20&%20Theses
-](https://www.proquest.com/docview/3068905320?sourcetype=Dissertations%20&%20Theses)
+https://www.proquest.com/docview/3068905320?sourcetype=Dissertations%20&%20Theses
